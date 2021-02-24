@@ -1,0 +1,58 @@
+body{
+	background:salmon;
+}
+.row h2{
+	font-size:35px;
+	background:#ddd;
+	text-align:center;
+}
+.rahman{
+	background:#ddd;
+}
+.top-header{
+	background:#ddd;
+	line-height:80px;
+}
+
+.slider_section{
+	height:75vh;
+	overflow:hidden;
+}
+.top-header .marginss{
+	margin-left:80px;
+	font-size:20px;
+}
+.cook{
+	width:150px;
+	height:150px;
+	border:1px solid white;
+	border-radius:50%;
+}
+.testimonial{
+	display:flex;
+	justify-content:center;
+	padding:8px;
+	align-items:center;
+}
+.rating{
+	color:red;
+	font-size:22px;
+}
+ul{
+    list-style-type: none;
+}
+.app-logo{
+    margin-top: 20px;
+}
+.app-logo img{
+    margin-top: 10px;
+    width: 140px;
+}
+
+.copyright{
+    text-align: center;
+	background:black;
+	color:white;
+	line-height:50px;
+	font-size:16px;
+}
